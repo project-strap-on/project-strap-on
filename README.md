@@ -1,5 +1,5 @@
 # Project Strap-On
 
-Open source documentation in progress.
+**In progress**
 
-Most information currently found at: https://github.com/mpiasek/TeensyIMU
+For most up-to-date documention see: https://github.com/mpiasek/TeensyIMU
